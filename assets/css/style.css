@@ -1,0 +1,23 @@
+header {
+    font-family: "Poiret One", sans-serif;
+    background-color:#b7dffd ;
+
+}
+
+main {
+    font-family: "Dongle", sans-serif;
+    background-color: #62a999;
+    
+}
+
+footer {
+    background-color:#86a8b2;
+}
+ /*Website color palette: #b7dffd #5f94ae #9be1cd #62a999 #86a8b2 */
+
+ /* General style */
+ body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+ }
