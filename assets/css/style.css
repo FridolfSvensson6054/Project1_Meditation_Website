@@ -7,7 +7,9 @@ header {
 main {
     font-family: "Dongle", sans-serif;
     background-color: #b7dffd;
-    
+    padding:auto;
+    margin:auto;
+    text-align:center;   
 }
 
 footer {
