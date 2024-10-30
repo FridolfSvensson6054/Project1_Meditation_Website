@@ -1,12 +1,12 @@
 header {
     font-family: "Poiret One", sans-serif;
-    background-color:#b7dffd ;
+    background-color:#5f94ae ;
 
 }
 
 main {
     font-family: "Dongle", sans-serif;
-    background-color: #62a999;
+    background-color: #b7dffd;
     
 }
 
@@ -27,7 +27,7 @@ footer {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: #b7dffd;
+    background-color: #62a999;
     text-align: center;
     border: none;
     border-radius: 5px;
@@ -35,5 +35,5 @@ footer {
 }
 
 .button:hover {
-    background-color: #86a8b2; 
+    background-color: #9be1cd; 
 }
