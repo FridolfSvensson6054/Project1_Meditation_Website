@@ -38,11 +38,11 @@
         <form action="" method="post">
             <div>
                 <lable for="name-field">Name:</lable>
-                <input id="name-field" type="text" name="full_name" placeholder="Your name">
+                <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
             </div>
             <div>
                 <label for="email-field">Email:</label>
-                <input id="email-field" type="email" name="email" placeholder="Your Email">
+                <input id="email-field" type="email" name="email" placeholder="Your Email" required>
             </div>
 
             <p>Age:</p>
@@ -102,7 +102,7 @@
                 What do you want us to know before our session?
             </label>
             <br>
-            <textarea id="about-you" placeholder="Any thing you want us to know about you before our session" rows="5" cols="60"></textarea>
+            <textarea id="about-you" placeholder="Write about yourself" rows="5" cols="60" required></textarea>
             <br>
 
             <input type="submit" value="Submit"> 
