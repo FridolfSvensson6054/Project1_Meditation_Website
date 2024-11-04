@@ -77,6 +77,16 @@ I tried The accessibility test after I fixed the problems and then i got these r
 <p>Mobile Test</p>
 <img src="/workspaces/Project1_Meditation_Website/assets/css/images/Media/mobile preformance innerbreath.png">
 
+## Deployment
+<p>The site was deployed to GitHub pages. The steps to deploy are as follows:</p>
+<ul>
+<li>In the Github repository, go to the settings tab</li>
+<li>From the source section drop-down menu, select the Master branch</li>
+<li>Once the master branch has been selected, the page provided the link to completed website.</li>
+<li>Link to the website: <a href="https://fridolfsvensson6054.github.io/Project1_Meditation_Website/" target="_blank">Live link</a></li>
+
+</ul>
+
 ## Credits
 Favicon generated in [favicon-generator](https://www.favicon-generator.org)
 Pictures for website all taken from [pixabay](https://pixabay.com/).
@@ -88,3 +98,6 @@ The text generated on exrecises page is mostly from my head and from reading abo
 
 ## What I wanted to do
 One thing I wanted to do was add a a background image to the forum page so it would have looked better for laptop/pc users. So that the forum was in a block and easy to read but the empty right part of the screen was a relaxing image. The layout of the forum page on mobile and tablet is good and did not need any additional image to make the page look more livly. Also wanted to add background image to header but it made the accessibility score go down since the logo was hard to see, I could have made a logo picture that had a background wich made it easy to read out but I did not have time.
+
+## Contact 
+Please feel free to contact me at Fridolfsss@outlook.com
