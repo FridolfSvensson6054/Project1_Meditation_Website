@@ -8,39 +8,52 @@ Guided Breathing Exercises: Explore various breathing exercises, such as Box Bre
 Private Session Sign-Up: A form to book personalized meditation sessions with specific needs, age, and goals.
 User-Friendly Design: A calming, intuitive layout that enhances the user experience.
 
-## Testing
-<ul>
-<li>I tested that the website works on diffrent browsers:Chrome, Firefox, Opera GX,</li>
-<li>I checked so it is responsive and functions on all standard screen sizes using the devtools in Chrome.</li>
-<li>I tested all navigations, header, and the forum page submit.
-<li>I checked so all text in the project is easy to read.</li>
-</ul>
-Screenshots
-
 ## Technologies Used
 ### Languages
 HTML/CSS
 
 ### Libraries
 <ul>
-<li>[Google-Fonts](https://fonts.google.com/)</li>
-<li>[Font-awesome](https://fontawesome.com/)</li>
+<li><a href="https://fonts.google.com" target="_blank">Google Fonts</a></li>
+Font styles
+<li><a href="https://fontawesome.com/" target="_blank">Font Awesome</a></li>
+Used for Icons
 </ul>
+
 
 ### Platforms
 <ul>
-<li>[github](https://github.com/)</li>
-<li>[VSC](https://code.visualstudio.com/)</li>
+<li><a href="https://github.com/" target="_blank">Github</a></li>
+Storing code remotely and deployment.
+<li><a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a></li>
+IDE for project development.
 </ul>
 
 ### Other Tools
 <ul>
-<li>Favicon generator</li>
+<li><a href="https://www.favicon-generator.org/" target="_blank">Favicon generator</a></li>
+Favicons
 </ul>
+
 ## Bugs
 <ul>
 <li>Tried launching the preview from the terminal in github but I was not able to see anything on the preview only a blank page. Then i tried launching the preview in VSC and that made it work after that it has worked fine. 
 <li>Tried to set the main content to text-align:center but when checking the accessibility score of the website it got lower. So I changed it to align-justify wich made the score even lower then i changed it to align-left instead for better accessibility on the website.</li>
+</ul>
+
+## Testing
+### Validation
+<ul>
+<li>HTML has been validated with <a href="https://validator.w3.org/#validate_by_input" target="_blank">W3C HTML5 Validator</a></li>
+<li>CSS has been validated with <a href="https://jigsaw.w3.org/css-validator/validator" target="_blank">W3C CSS Validator</a></li>
+</ul>
+
+### General Testing
+<ul>
+<li>I tested that the website works on diffrent browsers:Chrome, Firefox, Opera GX,</li>
+<li>I checked so it is responsive and functions on all standard screen sizes using the devtools in Chrome.</li>
+<li>I tested all navigations, header, and the forum page submit.
+<li>I checked so all text in the project is easy to read.</li>
 </ul>
 
 ## Credits
