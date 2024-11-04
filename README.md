@@ -16,5 +16,7 @@ Tried to set the main content to text-align:center but when checking the accessi
 
 Credits
 Favicon generated in https://www.favicon-generator.org
-Pictures for website all taken from pixabay.
+Pictures for website all taken from [pixabay](https://pixabay.com/).
 Social media buttons in footer https://www.w3schools.com/howto/howto_css_social_media_buttons.asp.
+The icons in the footer were taken from https://fontawesome.com/
+Guidense during the project from my mentor Rory Patrick.
