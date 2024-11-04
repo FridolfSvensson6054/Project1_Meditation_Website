@@ -1,3 +1,5 @@
+
+
 Introduction
 The Meditation Website is a platform designed to help users embark on a journey of mindfulness and wellness. It provides a range of breathing techniques, guided meditation resources, and personalized private sessions to help users find balance, reduce stress, and improve mental clarity.
 
@@ -17,6 +19,9 @@ Tried to set the main content to text-align:center but when checking the accessi
 Credits
 Favicon generated in https://www.favicon-generator.org
 Pictures for website all taken from [pixabay](https://pixabay.com/).
-Social media buttons in footer https://www.w3schools.com/howto/howto_css_social_media_buttons.asp.
-The icons in the footer were taken from https://fontawesome.com/
+Social media buttons in footer [W3schools]https://www.w3schools.com/howto/howto_css_social_media_buttons.asp.
+The icons in the footer were taken from [FontAwesome]https://fontawesome.com/
 Guidense during the project from my mentor Rory Patrick.
+
+What I wanted to do
+One thing I wanted to do was add a a background image to the forum page so it would have looked better for laptop/pc users. So that the forum was in a block and easy to read but the empty right part of the screen was a relaxing image. The layout of the forum page on mobile and tablet is good and did not need any additional image to make the page look more livly.
