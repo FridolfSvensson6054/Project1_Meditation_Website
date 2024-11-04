@@ -56,6 +56,27 @@ Favicons
 <li>I checked so all text in the project is easy to read.</li>
 </ul>
 
+### Accessibility Testing
+Accessibility testing where done in [PageSpeed-Insights](https://pagespeed.web.dev/)
+
+<p>First test.</p>
+<img src="/workspaces/Project1_Meditation_Website/assets/css/images/Media/innerbreath bad accessibility.png">
+
+<p>Got two things that needed to be fixed for better accessibility:</p>
+<p>First problem:</p>
+<img src="/workspaces/Project1_Meditation_Website/assets/css/images/Media/names and labels problem innerbreath.png">
+<p>Fixed the problem by adding a aria-label to all social media link in the footers on all HTML files.</p>
+<img src="/workspaces/Project1_Meditation_Website/assets/css/images/Media/names and labels solution innerbreath.png">
+<p>The second problem:</p>
+<img src="/workspaces/Project1_Meditation_Website/assets/css/images/Media/contrast problem innerbreath.png">
+<p>Fixed this problem by simply change the color of the logo in the header to a darker color for better contrast which makes it easier to read.</p>
+
+I tried The accessibility test after I fixed the problems and then i got these resault.
+<p>PC Test</p>
+<img src="/workspaces/Project1_Meditation_Website/assets/css/images/Media/pc preformence on innerbreath.png">
+<p>Mobile Test</p>
+<img src="/workspaces/Project1_Meditation_Website/assets/css/images/Media/mobile preformance innerbreath.png">
+
 ## Credits
 Favicon generated in [favicon-generator](https://www.favicon-generator.org)
 Pictures for website all taken from [pixabay](https://pixabay.com/).
