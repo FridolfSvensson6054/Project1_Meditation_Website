@@ -59,6 +59,10 @@ footer {
     background: #cd486b;
     color: white;
   }
+
+  .copyright {
+    font-size:12px;
+  }
  /*Body */
  body {
     min-height: 80vh;
