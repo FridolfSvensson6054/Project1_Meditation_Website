@@ -6,16 +6,26 @@ header {
 }
 
 .header {
-    color:white;
+    color:#555;
 }
-
-
 
 main {
     font-family: "Dongle", sans-serif;
     background-color: #b7dffd;
     padding:15px;
     text-align:left;
+}
+
+p {
+    font-size:24px;
+}
+
+h1 {
+    font-size:28px;
+}
+
+h2 {
+    font-size:26px;
 }
 
 footer {
@@ -49,9 +59,7 @@ footer {
     background: #cd486b;
     color: white;
   }
- /*Website color palette: #b7dffd #5f94ae #9be1cd #62a999 #86a8b2 */
-
- /* General style */
+ 
  body {
     min-height: 100vh;
     display: flex;
