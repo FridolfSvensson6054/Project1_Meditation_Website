@@ -8,6 +8,8 @@ Guided Breathing Exercises: Explore various breathing exercises, such as Box Bre
 Private Session Sign-Up: A form to book personalized meditation sessions with specific needs, availability, and goals
 User-Friendly Design: A calming, intuitive layout that enhances the user experience.
 
+Testing
+
 Screenshots
 
 Technologies Used
