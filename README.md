@@ -17,10 +17,10 @@ Bugs or Changes
 Tried to set the main content to text-align:center but when checking the accessibility score of the website it got lower. So I changed it to align-justify wich made the score even lower then i changed it to align-left instead for better accessibility on the website.
 
 Credits
-Favicon generated in https://www.favicon-generator.org
+Favicon generated in [favicon-generator](https://www.favicon-generator.org)
 Pictures for website all taken from [pixabay](https://pixabay.com/).
-Social media buttons in footer [W3schools]https://www.w3schools.com/howto/howto_css_social_media_buttons.asp.
-The icons in the footer were taken from [FontAwesome]https://fontawesome.com/
+Social media buttons in footer [W3schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp).
+The icons in the footer were taken from [Font-Awesome](https://fontawesome.com/)
 Guidense during the project from my mentor Rory Patrick.
 
 What I wanted to do
