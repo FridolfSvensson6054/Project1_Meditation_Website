@@ -9,6 +9,10 @@ header {
     color:#555;
 }
 
+#logo {
+    color:black
+}
+
 main {
     font-family: "Dongle", sans-serif;
     background-color: #b7dffd;
