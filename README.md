@@ -83,6 +83,8 @@ Pictures for website all taken from [pixabay](https://pixabay.com/).
 Social media buttons in footer [W3schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp).
 The icons in the footer were taken from [Font-Awesome](https://fontawesome.com/)
 Guidense during the project from my mentor Rory Patrick.
+Forum file I took inspiration from the coders coffeehouse forum in the course from Code institute.
+The text generated on exrecises page is mostly from my head and from reading about Wim hoff (A breathing meditation Icon) for years. I put the exrecise page in Chat GPT-4 to generate a FAQ page, I checked it and it looks good to me, but there may be some spelling mistakes or some sentences that dont make sense to a naitive english speaker.
 
 ## What I wanted to do
 One thing I wanted to do was add a a background image to the forum page so it would have looked better for laptop/pc users. So that the forum was in a block and easy to read but the empty right part of the screen was a relaxing image. The layout of the forum page on mobile and tablet is good and did not need any additional image to make the page look more livly. Also wanted to add background image to header but it made the accessibility score go down since the logo was hard to see, I could have made a logo picture that had a background wich made it easy to read out but I did not have time.
